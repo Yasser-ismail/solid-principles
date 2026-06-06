@@ -1,0 +1,9 @@
+{
+  "name": "study/solid",
+  "description": "SOLID principles",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
